@@ -8,7 +8,7 @@ Version:	0.1.6
 Release:	2
 Group:		Development/PHP
 License:	PHP License
-URL:		http://pecl.php.net/package/inotify/
+URL:		https://pecl.php.net/package/inotify/
 Source0:	http://pecl.php.net/get/%{modname}-%{version}.tgz
 BuildRequires:  php-devel >= 3:5.2.0
 Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
